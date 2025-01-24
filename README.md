@@ -9,12 +9,12 @@ This is my Hall Booking API which was designed by me using NodeJs and ExpressJS.
 
 ## Website(Render)
 
-[Hall-Booking-API](https://hall-booking-mk6l.onrender.com)
+[Hall-Booking-API](https://hall-booking-ppv9.onrender.com/)
 
 
 ## API Documentation
 
-[Click here to view API Documentation](https://documenter.getpostman.com/view/24200691/2sA2xh2YJx)
+[Click here to view API Documentation](https://documenter.getpostman.com/view/41531026/2sAYQfE9ze)
 
 ## Screenshots
 
